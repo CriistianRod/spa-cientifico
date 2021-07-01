@@ -8,7 +8,7 @@ module.exports = {
         filename: 'main.js'
     },
     resolve: {
-        estensions: ['.js']
+        extensions: ['.js']
     },
     module: {
         rules: [
